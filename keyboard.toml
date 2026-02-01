@@ -86,10 +86,10 @@ unlock_keys = [[0, 0], [0, 9]]
 
 # TODO: Test
 #   - https://rmk.rs/docs/configuration/behavior.html#profile
-# [behavior.morse]
-# enable_flow_tap = true
-# unilateral_tap = true
-# permissive_hold = true
+[behavior.morse]
+enable_flow_tap = true
+unilateral_tap = true
+permissive_hold = true
 
 # TODO: Test
 #   - https://rmk.rs/docs/configuration/behavior.html#per-key-profiles-for-morse-tapdance-tap-hold-fine-tuning
